@@ -3,7 +3,6 @@ import {
   SignInButton,
   SignedIn,
   SignedOut,
-  UserButton,
 } from "@clerk/nextjs";
 import type { Metadata } from "next";
 import { IBM_Plex_Sans } from "next/font/google";
